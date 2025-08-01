@@ -64,7 +64,7 @@ To run these benchmarks, you'll need:
 ### Installation
 
 ```bash
-git clone https://github.com/MrlixiangWE/cloud-edge-collaboration-benchmarks.git
+git clone https://github.com/Cloud-Edge-Benchmark/cloud-edge-collaboration-benchmarks.git
 cd cloud-edge-collaboration-benchmarks
 # See individual benchmark directories for specific setup instructions
 ```
